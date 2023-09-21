@@ -1,4 +1,12 @@
 <h1 align="center"> 
+      WELCOME TO OCTO VALLEY!
+</h1> 
+
+<p align="center">
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/27dbbda7-320b-488b-b8cb-6d993296f095/ddecx97-31125f01-8af6-4608-8754-5c7268107220.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzI3ZGJiZGE3LTMyMGItNDg4Yi1iOGNiLTZkOTkzMjk2ZjA5NVwvZGRlY3g5Ny0zMTEyNWYwMS04YWY2LTQ2MDgtODc1NC01YzcyNjgxMDcyMjAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.nArEab9ZTPCXYWsJPUFcsMuQOSfH_jt4rYCW6m5bKj4" width="200" />
+</p>
+
+<h1 align="center"> 
    NOW PLAYING:
 </h1> 
 

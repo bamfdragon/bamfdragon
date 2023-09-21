@@ -7,6 +7,10 @@
 ![image](https://github.com/dj-octavio/dj-octavio/assets/81520916/3b0ad6d2-7861-4dcf-9dc4-e9b3872e69cb)
 ![image](https://github.com/dj-octavio/dj-octavio/assets/81520916/bb948011-fc5a-4a05-a0e1-079ea05c88de)
 ![image](https://github.com/dj-octavio/dj-octavio/assets/81520916/b0a55133-a56e-4414-a19b-0b0644f219c2)
+![image](https://github.com/dj-octavio/dj-octavio/assets/81520916/e5b65726-8253-4a47-a460-cdc8de2114de)
+![image](https://github.com/dj-octavio/dj-octavio/assets/81520916/e4006b20-938e-4d65-902c-ec4279933215)
+![image](https://github.com/dj-octavio/dj-octavio/assets/81520916/afae5326-602f-4f44-b9a9-3f8f82697dfa)
+
 
 
 </div>

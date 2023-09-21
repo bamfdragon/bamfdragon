@@ -60,7 +60,7 @@ trans ftm
 </div>
 
 <h1 align="center"> 
- 🎵 NOW PLAYING... 
+ 🎵 NOW PLAYING... 🎵
 </h1> 
 
 <p align="center">

@@ -2,6 +2,17 @@
      🐙 WELCOME TO OCTO VALLEY! 🐙
 </h1> 
 
+<div align="center">
+
+![image](https://github.com/dj-octavio/dj-octavio/assets/81520916/3b0ad6d2-7861-4dcf-9dc4-e9b3872e69cb)
+![image](https://github.com/dj-octavio/dj-octavio/assets/81520916/bb948011-fc5a-4a05-a0e1-079ea05c88de)
+![image](https://github.com/dj-octavio/dj-octavio/assets/81520916/b0a55133-a56e-4414-a19b-0b0644f219c2)
+
+
+</div>
+
+
+
 <p align="center">
   <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/27dbbda7-320b-488b-b8cb-6d993296f095/ddecx97-31125f01-8af6-4608-8754-5c7268107220.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzI3ZGJiZGE3LTMyMGItNDg4Yi1iOGNiLTZkOTkzMjk2ZjA5NVwvZGRlY3g5Ny0zMTEyNWYwMS04YWY2LTQ2MDgtODc1NC01YzcyNjgxMDcyMjAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.nArEab9ZTPCXYWsJPUFcsMuQOSfH_jt4rYCW6m5bKj4" width="200" />
 </p>
@@ -10,17 +21,23 @@
     I am REN, or OCTAVIO!
 </p>
 
-<p align="center">
+<div align="center">
      
     Chances are you came from ponytown, so please refer to the status indicators below for how to interact with me!
-</p>
 
+    
+</div>
+
+<div align="center">
      
-- 🟢 **online** : int ok !
+ 🟢 **online** : int ok !
 
-- 🌙 **idle** : afk/offtab
+ 🌙 **idle** : afk/offtab
 
-- ⛔ **busy** : please do not interact!
+ ⛔ **busy** : please do not interact!
+
+
+</div>
 
 <h1 align="center"> 
    NOW PLAYING:

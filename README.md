@@ -10,9 +10,9 @@
 </div>
 
 
-<p align="center"> 
+<h1 align="center"> 
    Wip, check back later! 
-</p> 
+</h1> 
 
 <p align="center"> 
 <img src="https://media.discordapp.net/attachments/737083544580390953/1154211385832656896/image-removebg-preview.png"  width="300" />

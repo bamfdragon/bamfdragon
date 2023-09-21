@@ -11,8 +11,16 @@
 </p>
 
 <p align="center">
+     
     Chances are you came from ponytown, so please refer to the status indicators below for how to interact with me!
 </p>
+
+     
+- 🟢 **online** : int ok !
+
+- 🌙 **idle** : afk/offtab
+
+- ⛔ **busy** : please do not interact!
 
 <h1 align="center"> 
    NOW PLAYING:

@@ -1,3 +1,7 @@
+<h1 align="center"> 
+   NOW PLAYING:
+</h1> 
+
 <p align="center">
   <img src="https://i.pinimg.com/originals/43/9e/10/439e1065e568c523f5492d823bf51c7a.png" width="200" />
 </p>

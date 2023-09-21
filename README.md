@@ -10,6 +10,8 @@
 ![image](https://github.com/dj-octavio/dj-octavio/assets/81520916/e5b65726-8253-4a47-a460-cdc8de2114de)
 ![image](https://github.com/dj-octavio/dj-octavio/assets/81520916/e4006b20-938e-4d65-902c-ec4279933215)
 ![image](https://github.com/dj-octavio/dj-octavio/assets/81520916/afae5326-602f-4f44-b9a9-3f8f82697dfa)
+![image](https://github.com/dj-octavio/dj-octavio/assets/81520916/a1d54404-9042-4ef8-8f6c-4e5bf8072eb3)
+
 
 
 
@@ -21,9 +23,24 @@
   <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/27dbbda7-320b-488b-b8cb-6d993296f095/ddecx97-31125f01-8af6-4608-8754-5c7268107220.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzI3ZGJiZGE3LTMyMGItNDg4Yi1iOGNiLTZkOTkzMjk2ZjA5NVwvZGRlY3g5Ny0zMTEyNWYwMS04YWY2LTQ2MDgtODc1NC01YzcyNjgxMDcyMjAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.nArEab9ZTPCXYWsJPUFcsMuQOSfH_jt4rYCW6m5bKj4" width="200" />
 </p>
 
-<p align="center">
-    I am REN, or OCTAVIO!
-</p>
+<div align="center">
+   
+I am **REN**, or **OCTAVIO**!
+    
+esp/eng, afro-latino
+
+trans ftm
+
+     
+</div>
+
+<div align="center">
+
+![image](https://github.com/dj-octavio/dj-octavio/assets/81520916/d96c5c13-ff2a-44b6-b851-d7cbeca7c9fe)
+![image](https://github.com/dj-octavio/dj-octavio/assets/81520916/3c6e85a8-d10b-4a37-8f70-dc0a80675e6a)
+
+
+</div>
 
 <div align="center">
      

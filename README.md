@@ -1,4 +1,14 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://i.pinimg.com/originals/43/9e/10/439e1065e568c523f5492d823bf51c7a.png" width="200" />
+</p>
+
+<p align="center"> 
+   Wip, check back later! 
+</p> 
+
+<p align="center"> 
+<img src="https://media.discordapp.net/attachments/737083544580390953/1154211385832656896/image-removebg-preview.png"  width="300" />
+</p>
 
 <!--
 **dj-octavio/dj-octavio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

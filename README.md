@@ -2,6 +2,14 @@
   <img src="https://i.pinimg.com/originals/43/9e/10/439e1065e568c523f5492d823bf51c7a.png" width="200" />
 </p>
 
+<div align="center">
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=xvj3gwjpq3at6rge2mbzex4hj&cover_image=true&theme=novatorem&show_offline=false&background_color=556b2f&interchange=false&bar_color=4d4f81&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+
+</div>
+
+
 <p align="center"> 
    Wip, check back later! 
 </p> 

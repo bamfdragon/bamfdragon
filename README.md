@@ -1,5 +1,5 @@
 <h1 align="center"> 
-      WELCOME TO OCTO VALLEY!
+     🐙 WELCOME TO OCTO VALLEY! 🐙
 </h1> 
 
 <p align="center">

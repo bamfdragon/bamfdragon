@@ -59,6 +59,23 @@ trans ftm
 
 </div>
 
+
+<h1 align="center"> 
+ ❓ ABOUT / BEFORE YOU INTERACT ❓
+</h1> 
+
+<div align="center">
+     
+```
+ I am generally reclusive, and may only choose to interact with close friends.
+It is not common that I choose to interact with others, but you're always free to approach if you'd like!
+
+I tend to block freely however and tend to not take kindly to persistence.
+
+```
+
+</div>
+
 <h1 align="center"> 
  🎵 NOW PLAYING... 🎵
 </h1> 

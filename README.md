@@ -71,7 +71,6 @@ trans ftm
      It is not common that I choose to interact with others, but you're always free to approach if you'd like!
 
 I tend to block freely however and tend to not take kindly to persistence.
-
 ```
 
 </div>

@@ -67,8 +67,8 @@ trans ftm
 <div align="center">
      
 ```
-     ! ` I am generally reclusive, and may only choose to interact with close friends.
-     It is not common that I choose to interact with others, but you're always free to approach if you'd like!
+     ! ` I am generally reclusive, and may only choose to speak with close friends.
+     It is not common that I interact with others, but you're always free to approach if you'd like!
 
 I tend to block freely however and tend to not take kindly to persistence.
 ```

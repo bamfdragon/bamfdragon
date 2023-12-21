@@ -78,7 +78,7 @@ I tend to block freely however and do not take kindly to persistence.
 
  **Fandom DNI** ⚠
 
-✭ ` *While I don't technically have a DNI list, I prefer not to associate with these fandom(s) and may hide you without warning by my own leisure.*
+✭ ` *While I don't technically have a DNI list, I prefer not to associate with these fandom(s) specifically and may hide you without warning by my own accord.*
 *Any fandom(s) marked with ❗ are **HIDE ON SIGHT***
 
  ʚ♡ɞ 

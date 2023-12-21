@@ -73,6 +73,24 @@ trans ftm
 I tend to block freely however and do not take kindly to persistence.
 ```
 
+![image](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8e8800cc-784a-4fd5-b250-2af49ba06fbb/d9jvmm4-ee0df34a-cbac-424a-88a6-fb6ecf51b490.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzhlODgwMGNjLTc4NGEtNGZkNS1iMjUwLTJhZjQ5YmEwNmZiYlwvZDlqdm1tNC1lZTBkZjM0YS1jYmFjLTQyNGEtODhhNi1mYjZlY2Y1MWI0OTAuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Q5PhGYuh0MdyhqesKFMoFMUAb8m5TScP1D1sIAaWurE)
+
+
+ **Fandom DNI** ⚠
+
+✭ ` *While I don't technically have a DNI list, I prefer not to associate with these fandom(s) and may hide you without warning by my own leisure.*
+*Any fandom(s) marked with ❗ are **HIDE ON SIGHT***
+
+ ʚ♡ɞ 
+
+```
+The Amazing Digital Circus
+Boyfriend To Death ❗
+Danganronpa
+Dream SMP ❗
+My Hero Academia 
+```
+
 </div>
 
 <h1 align="center"> 

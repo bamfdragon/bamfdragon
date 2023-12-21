@@ -84,13 +84,14 @@ I tend to block freely however and do not take kindly to persistence.
  ʚ♡ɞ 
 
 ```
-The Amazing Digital Circus
+GLITCH Productions Media
 Boyfriend To Death ❗
 Your Boyfriend ❗
 Danganronpa
 Dream SMP ❗
 My Hero Academia 
 Welcome Home ❗
+Vivziepop Media
 ```
 
 </div>

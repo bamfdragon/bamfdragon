@@ -24,7 +24,7 @@
 
 <div align="center">
    
-I am **REN**, or **OCTAVIO**!
+I am **RAY**, or **OCTAVIO**!
     
 esp/eng, afro-latino
 

@@ -33,7 +33,7 @@ trans ftm
 
 <div align="center">
      
-    Chances are you came from ponytown, so please refer to the status indicators below for how to interact with me!
+    Odds are you were directed here from Ponytown; please refer to the status indicators below for how to interact with me!
 
     
 </div>
@@ -44,7 +44,7 @@ trans ftm
 
  🌙 **idle** : afk/offtab
 
- ⛔ **busy** : please do not interact!
+ ⛔ **busy** : sleeping or elsewise unreachable
 
 
 </div>
@@ -57,7 +57,7 @@ trans ftm
 <div align="center">
      
 ```
-     ! ` I am generally reclusive, and may only choose to speak with close friends.
+      I am generally reclusive, and may only choose to speak with close friends.
      It is not common that I interact with others, but you're always free to approach if you'd like!
 
 I tend to block freely however and do not take kindly to persistence.
@@ -105,6 +105,8 @@ Vivziepop Media ❗
 <h1 align="center"> 
    WIP, check back later! 
 </h1> 
+
+the remainder of this page is still being worked upon!
 
 <p align="center"> 
 <img src="https://files.catbox.moe/sv710j.png"  width="300" />
